@@ -8,7 +8,8 @@ const Skills = () => {
     return (
         <section id='skills'>
             <span className="skillTitle">What I do</span>
-            <span className="skillDesc">I am a skilled and passionate web designer with experience in creating visually appealing and user-friendly websites. I have a strong understanding of design and a keen eye for detail. I am proficient in HTML, CSS, and JavaScript, as well as design software such as Adobe Photoshop and Illustrator.</span>
+            <span className="skillDesc">Hi, I’m Rohit Pokhariya — a passionate MERN Stack Developer.
+I specialize in building responsive web applications using React JS, Tailwind CSS, Node.js, Express, and MongoDB. I love turning ideas into interactive, user-friendly websites and continuously explore new technologies to enhance my skills.</span>
             <div className="skillBars">
                 <div className="skillBar">
                     <img src={UIDesign} alt="UIDesign" className="skillBarImg" />
